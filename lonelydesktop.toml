@@ -3,12 +3,12 @@
 #https://midnightsalmon.boo
 
 [colors.primary]
-background = "#1B1B1B"
+background = "#34444D"
 foreground = "#BDBDBD"
 
 [colors.normal]
 black	= "#1B1B1B"
-blue	= "#00567B"
+blue	= "#206593"
 green	= "#5E9D7C"
 cyan	= "#4793A8"
 red	= "#B75C61"
